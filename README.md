@@ -1,5 +1,3 @@
-# Meus-dados-sociais-em-uma-aba-HTML5
-
 # 🌐 Página de Apresentação Pessoal (HTML5)
 
 Este projeto é um **site simples em HTML5** criado para praticar os conceitos básicos da linguagem enquanto construía uma **página de apresentação pessoal**.  
