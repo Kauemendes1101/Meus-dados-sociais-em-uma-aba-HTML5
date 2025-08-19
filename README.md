@@ -22,7 +22,4 @@ Nela, apresento informações sobre mim, meus interesses e formas de contato por
 1. Baixe ou clone este repositório.  
 2. Abra o arquivo `ativ1.html` em qualquer navegador.  
 
----
-
-## 📊 Estrutura do projeto
 
